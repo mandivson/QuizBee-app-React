@@ -1,19 +1,12 @@
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# QuizBee-React-App
+**This is a quiz app which offers a set of five mcq questions.**
 
-## Contributors ✨
+The features of this app are:
+  
+- There are 5 mcq G.K questions displayed to the user.
+- There are four options of each question provided and eac question has one correct answer.
+- The score is displayed after every set of game played.
+- There is a button provided for playing again.
+- The questions change everytime when the user clicks the play again button.
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/mandivson"><img src="https://avatars.githubusercontent.com/u/53346067?v=4" width="100px;" alt=""/><br /><sub><b>Manish Ranjan</b></sub></a><br /><a href="#content-mandivson" title="Content">🖋</a> <a href="#tutorial-mandivson" title="Tutorials">✅</a></td>
-  </tr>
-</table>
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
