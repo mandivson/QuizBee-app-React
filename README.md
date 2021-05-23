@@ -1,5 +1,5 @@
 # QuizBee-React-App
-**This is a quiz app which offers a set of five mcq questions.**
+**This is a quiz app created using React.**
 
 The features of this app are:
   
